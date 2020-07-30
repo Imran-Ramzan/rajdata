@@ -1,0 +1,114 @@
+.slider-home-one .content h3 {
+    color: #fff;
+}
+.header-navigation.stricky-fixed ul.navigation-box > li.active > a,
+.header-navigation.stricky-fixed ul.navigation-box > li.current > a,
+.header-navigation.stricky-fixed ul.navigation-box > li > a:active,
+.header-navigation.stricky-fixed ul.navigation-box > li > a:focus,
+.header-navigation.stricky-fixed ul.navigation-box > li:hover > a {
+    color: #d3d3d3;
+}
+.header-navigation ul.navigation-box > li.active > a,
+.header-navigation ul.navigation-box > li.current > a,
+.header-navigation ul.navigation-box > li > a:active,
+.header-navigation ul.navigation-box > li > a:focus,
+.header-navigation ul.navigation-box > li:hover > a {
+    color: #d3d3d3;
+}
+.about-style-two .about-content span {
+    color: #00546d;
+}
+.about-us-style-one span {
+    color: #00546d;
+}
+.preloader {
+    background-color: #fff;
+}
+.service-style-one .single-service-style-one .img-box:after {
+    background: #00546d;
+}
+.service-style-one .single-service-style-one .img-box a.read-more {
+    background: #00546d;
+}
+.service-style-one .single-service-style-one .content-box .text-box h3:hover {
+    color: #00546d;
+}
+.hp-icon-boxes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00546d;
+    padding: 19px;
+    margin-top: 20px;
+}
+.hp-icon-text-box span {
+    color: #fff;
+    padding: 3px 9px 9px 8px;
+    margin-right: 8px;
+}
+.service-style-one .single-service-style-one .content-box .icon-box i {
+    background: #00546d;
+}
+.blog-style-two .single-blog-style-two .text-box h3:hover {
+    color: #00546d;
+}
+.blog-style-two .single-blog-style-two .img-box a.read-more {
+    background: #00546d;
+}
+.blog-style-two .single-blog-style-two .img-box a.read-more:hover {
+    background: #00546d;
+    color: #fff;
+}
+.scroll-to-top:hover {
+    background: #00546d;
+    color: #fff;
+}
+.footer-bottom .right-link a:hover {
+    color: #fff;
+}
+.site-footer .footer-widget ul.links-list li a:hover {
+    color: #00546d;
+}
+.testimonials-style-one
+    .single-testimonial-style-one
+    .top-box
+    .text-box
+    .stars
+    i {
+    color: #00546d;
+    font-size: 15px;
+}
+.testimonials-style-one
+    .testimonials-carousel-style-one.owl-theme
+    .owl-nav
+    [class*="owl-"]:hover {
+    background: #00546d;
+}
+.service-style-one .single-service-style-one .content-box .icon-box i {
+    color: #fff;
+}
+.faq-style-one .accrodion-grp .accrodion.active .accrodion-title {
+    background: #f0f0f0;
+    border-color: #f0f0f0;
+}
+
+html,
+body {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+.header-navigation .container {
+    position: relative;
+    padding-right: 195px;
+}
+.footer-widget.about-widget {
+    text-align: center;
+}
+.site-footer .footer-widget.about-widget p {
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+.site-footer {
+    background: none !important;
+    background-size: cover;
+}
